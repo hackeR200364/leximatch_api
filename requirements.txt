@@ -1,5 +1,6 @@
-fastapi
-uvicorn
+flask
 tensorflow
 scikit-learn
 numpy
+pandas
+joblib
